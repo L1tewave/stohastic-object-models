@@ -1,1 +1,1 @@
-# Stohastic-object-models
+# stohastic-object-models
